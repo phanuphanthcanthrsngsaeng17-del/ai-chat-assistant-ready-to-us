@@ -1,0 +1,1 @@
+ALTER TABLE `aiChannels` ADD `isEnabled` int DEFAULT 1 NOT NULL;

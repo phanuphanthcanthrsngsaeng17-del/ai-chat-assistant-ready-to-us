@@ -1,0 +1,1 @@
+ALTER TABLE `sharedConversationLinks` ADD `passwordHash` varchar(128);

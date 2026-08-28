@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1787843874144,
+      "tag": "0000_medical_crusher_hogan",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1787844126171,
+      "tag": "0001_lying_mister_fear",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1787847247515,
+      "tag": "0002_exotic_whiplash",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1787848471683,
+      "tag": "0003_futuristic_the_executioner",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1787848961023,
+      "tag": "0004_boring_randall",
+      "breakpoints": true
+    }
+  ]
+}
