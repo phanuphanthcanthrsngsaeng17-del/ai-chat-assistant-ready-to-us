@@ -12,6 +12,7 @@ function Router() {
   return (
     <Switch>
       <Route path="/" component={Home} />
+      <Route path="/chat" component={Home} />
       <Route path={"/control"} component={ControlCenter} />
       <Route path={"/share/:token"} component={SharedConversation} />
       <Route path="/404" component={NotFound} />
